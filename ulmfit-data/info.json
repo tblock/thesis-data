@@ -1,0 +1,1 @@
+{"dataset_path": "data/", "base_lm_path": "data/", "bidir": false, "qrnn": false, "max_vocab": 60000, "tokenizer": "sp", "pretrained_model": null, "emb_sz": 400, "nh": 1150, "nl": 3, "clip": 0.25, "bptt": 70}
